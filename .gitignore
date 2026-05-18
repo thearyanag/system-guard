@@ -1,0 +1,30 @@
+.DS_Store
+
+# SwiftPM and local build output
+.build/
+.swiftpm/
+
+# Generated app and release artifacts
+build/
+dist/
+
+# Local agent/test harness state
+.expect/
+
+# Xcode local user state
+*.xcuserstate
+*.xcuserdata/
+
+# Local release notes/evidence
+LAUNCH_CHECKLIST.md
+
+# Local credentials and signing material
+.env
+.env.*
+*.p8
+*.p12
+*.cer
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
