@@ -1,5 +1,7 @@
 # System Guard
 
+![System Guard banner](Support/Assets/SystemGuardBanner.png)
+
 System Guard is a macOS menu bar app that watches for memory pressure before it turns into a machine-wide slowdown.
 
 It is designed for developer workstations running browsers, Docker, local servers, and automation tools. The app stays in the menu bar, warns early, and only offers cleanup actions with explicit confirmation.
